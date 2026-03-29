@@ -1,4 +1,4 @@
 <figure>
-<img src= "https://www.w3schools.com/css/img_lights.jpg" alt="beautiful view of the sky" width="500" height="300"> //image formats and image linking
+<img src= "https://www.w3schools.com/css/img_lights.jpg" alt="beautiful view of the sky" width="500" height="300"> <!--<P>Image formats and image linking</P>-->
 <figcaption> Beautfiul view of the northern lights sky </figcaption> //discription of below the photo and figure
 </figure> 
