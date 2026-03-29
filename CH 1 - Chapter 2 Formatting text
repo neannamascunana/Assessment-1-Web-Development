@@ -1,0 +1,79 @@
+<!--<p>The Syntax of HTML Elements</p>-->
+
+<h1>My First Heading of The Syntax of HTML Elements</h1> <!--<p>First heading code<p/>-->
+<p>My Paragraph of The Syntax of HTML Elements</p>   <!--<p>Paragraph test code<p/>-->
+<a href="https://lms.mati.ac.ae/login/index.php">LMS WEBSITE</a> <!--<p>Link navigation</p>-->
+
+<!--<p>Paragraphs</p>-->
+<p>This is my first paragraph.</p>
+<p>This is my second paragraph.</p>
+
+<!--<p>Headlines</p>-->
+<h1>This is my first headline</h1> <!--<p>main headline</p>-->
+<h2>This is my second headline</h2> <!--<p>sub-heading</p>-->
+<This is my third headline</h3> <!--<p>sub-subheading</p>-->
+
+<!--<p>Bold and Italics</p>-->
+<head>
+  <style>
+    .italic-text {
+      font-style: italic;                     <!--<p>Italics</p>-->
+    }
+  </style>
+</head>
+<body>
+  <p><span class="italic-text">This text uses a CSS class.</span></p>
+
+<style>
+  .bold-text {font-weight: bold;}
+</style>
+<span class="bold-text">Bold text using a CSS class.</span>  <!--<p>Bold</p>-->
+
+<!--<p>Lists</p>-->
+<ul>
+        <li>Red</li>
+        <li>Green</li>
+        <ul>
+            <li>Black</li>
+            <li>Pink</li>
+        </ul>
+        <li>White</li>
+    </ul>
+    <ul style="list-style-type:square;">
+        <li>Hello</li>
+        <li>Hola</li>
+        <li>Bonjour</li>
+        <li>Привет</li>
+    </ul>
+    <ol>
+        <ol type="A">
+        </ol>
+        <li>Chicken</li>
+        <li>Bacon</li>
+        <li>Turkey</li>
+    </ol>
+    <dl>
+        <dt>Left</dt>
+        <dd>Right</dd>
+        <dt>Left</dt>
+        <dd>Right</dd>
+    </dl>
+
+<!--<p>Quotes</p>-->
+<a href="https://lms.mati.ac.ae/login/index.php">LMS WEBSITE</a>
+<a href='https://lms.mati.ac.ae/login/index.php'>LMS WEBSITE</a>
+
+<!--<p>Dates and Times</p>-->
+<p>My party begins at <time datetime="20:00">8:00 PM</time>.</p> <!--<p>time</p>-->
+<p>My party is on <time datetime="2026-08-23">August 27, 2026</time>.</p> <!--<p>date</p>
+
+
+
+
+
+
+
+
+
+
+                 
