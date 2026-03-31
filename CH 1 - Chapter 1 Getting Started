@@ -1,0 +1,53 @@
+<!--<p>HTML and CSS</p>-->
+
+HTML
+<h1>This is my main heading.</h1>    <!--<p>Main Heading</p>-->
+
+<p>This is my paragraph.</p>         <!--<p>Paragraph</p>-->
+
+<p>
+  Hello, this is my second paragraph <br />and now I'm in thw second line.       <!--<p>Void Elements</p>-->
+</p>
+
+<img src="https://www.dubai.com/media/uploads/dubai.com/2015/07/Burger.jpg" alt="image of burger" />     <!--<p>Images</p>-->
+
+<a href="https://lms.mati.ac.ae/login/index.php">LMS WEBSITE</a>           <!--<p>Link Website</p>-->
+
+<!--<p>SETUP OF HTML</p>-->
+
+<!doctype html>
+<html lang="en-US">
+  <head>
+    <meta charset="utf-8" />
+    <title>My First HTML</title>
+  </head>
+  <body>
+    <p>Welcome to My Website</p>
+  </body>
+</html>
+
+<!--<p>CSS</p>-->
+
+CSS BASICS
+
+  <h1>Get Started With CSS</h1>
+
+<p>You can be able to change your text, as well as ypur background.</p>
+
+<p>Creating designs and layouts for your website.</p>
+
+h1 {
+  color: yellow;
+  font-size: 2.5em;
+}
+
+p {
+  color: red;
+  padding: 5px;
+  background: black;
+}
+
+
+
+
+
