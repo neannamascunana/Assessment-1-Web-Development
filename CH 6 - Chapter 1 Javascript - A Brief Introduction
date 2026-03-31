@@ -1,0 +1,19 @@
+<!--<p>Starting with Javascript</p>-->
+
+<!--<p>Set Up Structure of JavaScript</p>-->
+
+<!DOCTYPE html>
+<html>
+<body>
+
+<h2>About the Basics of JavaScript</h2>
+
+<p id="demo">Press the button to move further on.</p>
+
+<button type="button" onclick='document.getElementById("demo").innerHTML = "Welcome Back"'>Continue</button>
+
+</body>
+</html>
+
+
+document.getElementById("demo").style.display = "block";   <!--<p>You can add another title along with the content without moving to another page.</p>-->
