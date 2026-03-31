@@ -1,0 +1,25 @@
+<!--<p>Changing the font-family</p>-->
+
+<!--<p>Changing in Fonts</p>-->
+
+/* Change the default font for the entire website */
+body {
+    font-family: "Arial", sans-serif;
+}
+
+
+<!--<p>Font Style and Font Weight</p>-->
+
+FONT STYLE
+.italic-text {
+    font-style: italic;
+}
+
+.oblique-text {
+    font-style: oblique;       
+}
+
+.normal-style {
+    font-style: normal;        
+}
+
