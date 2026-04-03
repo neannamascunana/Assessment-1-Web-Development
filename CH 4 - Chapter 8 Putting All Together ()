@@ -1,0 +1,84 @@
+<!doctype html>
+<html lang="en-US">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width" />
+
+    <title>My page title</title>
+    <link
+      href="https://fonts.googleapis.com/css?family=Open+Sans+Condensed:300|Sonsie+One"
+      rel="stylesheet" />
+    <link rel="stylesheet" href="style.css" />
+  </head>
+
+  <body>
+
+    <header>
+      <h1>Welcome To My Page</h1>
+    </header>
+
+    <nav>
+      <ul>
+        <li><a href="#">Home</a></li>
+        <li><a href="#">Projects</a></li>
+        <li><a href="#">About Me</a></li>
+      </ul>
+
+      <!--<p>Navigation Through The Site</p>-->
+
+      <form>
+        <input type="search" name="q" placeholder="Search" />
+        <input type="submit" value="Enter" />
+      </form>
+    </nav>
+
+    <!--<p>Content Page-->
+    <main>
+      <!--<p>Paragraph</p>-->
+      <article>
+        <h2>Facts About Me</h2>
+
+        <p>
+          My favorite animals are birds, speciffically parrots. I can read russian and speak little russian. 
+          My favorite food is Sushi and drink is boba tea. I like to draw, play video games, watch films, and read books.</p>
+
+        <section>
+          <h3>Things I like</h3>
+
+          <p>
+           I like the color red, green, and black. My favorite weather is winter and spring. I enjoy coloring and I mainly enjoy electronic, piano, and jazz music.
+          </p>
+
+          <p>
+            I dislike social events, loud places, dust, loud chewing, and pickles.
+          </p>
+        </section>
+
+        <section>
+          <h3>More About Me</h3>
+
+          <p>
+            I can develop games such as pixel games and visual novels. I also mainly do digital art, though sometimes I do traditional which is watercolor, acrylic and pencil.
+          </p>
+
+         
+        </section>
+      </article>
+
+      <!--<p>Aside Content With Main Content</p>-->
+      <aside>
+        <h2>Study</h2>
+
+        <ul>
+          <li><a href="https://www.w3schools.com/">W3Schools</a></li>
+        </ul>
+      </aside>
+    </main>
+
+    <!--<p>Footer is Used in All Websites</p>-->
+
+    <footer>
+      <p>©Copyright 2050 by THE LEGEND. All rights reversed.</p>
+    </footer>
+  </body>
+</html>
