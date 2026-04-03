@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+<body>
+<h1>Creating JavaScript Objects</h1>
+<h2>Using an Object Literal</h2>
+
+<p id="demo"></p>
+
+<script>
+const person = {                                   <!--<p>Object</p>-->
+  firstName: "Neanna",
+  lastName: "Mascunana",
+  age: 17,
+  eyeColor: "brown"
+};
+
+                                                   <!--<p>Description of THe Object</p>-->
+document.getElementById("demo").innerHTML =                 
+person.firstName + " is " + person.age + " years old.";
+</script>
+
+</body>
+</html>
